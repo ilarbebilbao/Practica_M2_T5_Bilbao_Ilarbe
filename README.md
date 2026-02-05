@@ -1,0 +1,1 @@
+Modelo 3D simplificado generado a partir de una nube de puntos utilizando MeshLab. Durante el proceso se realizaron los pasos de triangulación, simplificación y parametrización UV. No fue posible generar la textura debido a errores persistentes del software relacionados con la topología del modelo.
